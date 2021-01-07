@@ -1,3 +1,6 @@
+import sys
+sys.path.append('../include/')
+
 from cpf_cnpj import *
 from telefones_br import *
 from datas_br import *
